@@ -10,4 +10,8 @@ if($b!=0)
 {
 echo "odd";
 }
+else
+{
+  echo "error";
+}
 ?>
